@@ -2,13 +2,11 @@
 
 This script automates the referral process on Minionlab:
 
-- 🆕 Auto Email Generator (random username + domain)
-- 🔁 Loop through multiple account creations
-- 🧩 Referral code injection
-- 🌍 Proxy Support (HTTP/SOCKS5)
-- 🛠️ Captcha Handling (manual entry or 3rd-party solver ready)
-- 📑 Logs created accounts in `accounts.txt`
-- 📂 Configurable via `.env`
+  🆕 Auto Email Generator 
+  🔁 Loop through multiple account creations
+  🌍 Proxy Support (HTTP/SOCKS5)
+  📑 Logs created accounts in `accounts.txt`
+  📂 Configurable via `.env`
 
 🚫 Unauthorized use is prohibited.
 
