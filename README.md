@@ -13,6 +13,7 @@ This script automates the referral process on Minionlab:
 - 📑 Logs created accounts in `accounts.txt`
   
 - 📂 Configurable via `.env`
+  
 
 🔐 Access Policy
 This bot is private and requires login credentials.
