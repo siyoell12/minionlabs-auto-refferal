@@ -14,6 +14,9 @@ This script automates the referral process on Minionlab:
   
 - 📂 Configurable via `.env`
 
+🔐 Access Policy
+This bot is private and requires login credentials.
+
 🚫 Unauthorized use is prohibited.
 
 ✅ To access, please confirm your username + PIN with the creator.
