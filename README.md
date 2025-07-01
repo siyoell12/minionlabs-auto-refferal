@@ -6,8 +6,6 @@ This script automates the referral process on Minionlab:
   
 - 🔁 Loop through multiple account creations
   
-- 🧩 Referral code injection
-  
 - 🌍 Proxy Support (HTTP/SOCKS5)
   
 - 📑 Logs created accounts in `accounts.txt`
